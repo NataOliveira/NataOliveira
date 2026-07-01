@@ -66,9 +66,9 @@ Sou desenvolvedor em formação focado no ecossistema **Python**, com sólida ba
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| 🎮 [**RPG em Texto**](https://github.com/Natan-Oliveira/Jogo-RPG-em-POO) | Jogo em Python estruturado em POO com sistema de combate por turnos, gerenciamento de inventário e persistência de dados em JSON. | `Python` `POO` `JSON` |
-| 🏦 [**Dreyfus Bank**](https://github.com/Natan-Oliveira/Projeto_Login_e_cadastro) | Sistema desktop de login e cadastro com interface rica, autenticação segura (hashing bcrypt) e banco de dados relacional. | `CustomTkinter` `PostgreSQL` `bcrypt` |
-| 🌐 [**Portfólio Pessoal**](https://github.com/Natan-Oliveira/portifolio) | Site institucional responsivo com efeitos visuais avançados, animações modernas, CSS estruturado e integração 3D. | `HTML5` `CSS3` `JavaScript` `Spline` |
+| 🎮 [**RPG em Texto**](https://github.com/NataOliveira/Jogo-RPG-em-POO) | Jogo em Python estruturado em POO com sistema de combate por turnos, gerenciamento de inventário e persistência de dados em JSON. | `Python` `POO` `JSON` |
+| 🏦 [**Dreyfus Bank**](https://github.com/NataOliveira/Projeto_Login_e_cadastro) | Sistema desktop de login e cadastro com interface rica, autenticação segura (hashing bcrypt) e banco de dados relacional. | `CustomTkinter` `PostgreSQL` `bcrypt` |
+| 🌐 [**Portfólio Pessoal**](https://github.com/NataOliveira/portifolio) | Site institucional responsivo com efeitos visuais avançados, animações modernas, CSS estruturado e integração 3D. | `HTML5` `CSS3` `JavaScript` `Spline` |
 
 <br>
 
