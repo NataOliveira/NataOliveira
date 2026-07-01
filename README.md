@@ -23,7 +23,7 @@ Sou desenvolvedor em formação focado no ecossistema **Python**, com sólida ba
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,postgres,mysql,vscode,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,postgres,mysql,vscode" />
 
 </div>
 
