@@ -43,8 +43,6 @@ Sou desenvolvedor em formação focado no ecossistema **Python**, com sólida ba
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=NataOliveira&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NataOliveira&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
